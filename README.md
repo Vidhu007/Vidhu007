@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, 
 <p>
   <em>
-    I am a 2nd Year undergraduate from <a href="http://www.nsit.ac.in/"> <b>NSUT</b>, Delhi</a>.  
+    I am a 3rd Year undergraduate from <a href="http://www.nsit.ac.in/"> <b>NSUT</b>, Delhi</a>.  
     A  <b>Web  Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a passionate coder who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
