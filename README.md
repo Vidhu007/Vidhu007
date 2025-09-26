@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="http://www.nsit.ac.in/"> <b>NSUT</b>, Delhi</a>.  
+    I am a software developer at **Oracle** , did my Btech in Computer Science from <a href="http://www.nsit.ac.in/"> <b>NSUT</b>, Delhi</a>.  
     A  <b>Web  Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a passionate coder who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 </span>
 
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/vidhunsut/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/V9Vidhu) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/vidhu.v9/) | [<img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" alt="Github logo" width="34">](https://github.com/Vidhu007) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:vidhu.v9@gmail.com)
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/vidhuverma1/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/V9Vidhu) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/vidhu.v9/) | [<img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" alt="Github logo" width="34">](https://github.com/Vidhu007) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:vidhu.v9@gmail.com)
 |:---:|:---:|:---:|:---:|:---:|
 
 
